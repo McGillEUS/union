@@ -1,0 +1,199 @@
+/*
+ Theme Name:   Laread Child
+ Theme URI:    http://evmet.net
+ Description:  Laread Child Theme
+ Author:       evmet
+ Author URI:   http://evmet.net
+ Template:     laread
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  laread-child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+
+/* Import fonts */
+
+@font-face {
+    font-family: headline;
+    src: url(assets/fonts/HEADOH__.TTF) format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: Heathergreen;
+    src: url(assets/fonts/Heathergreen.otf) format('opentype');
+    font-weight: normal;
+}
+
+
+/* ALEX - add bar of colour depending on category */
+
+.post-mediums .faucet .post-item .medium-post-box .pm-top-info {
+    padding-top: 0.5em;
+    border-top: 2px #4da6ff solid;
+}
+
+.post-mediums .ledger .post-item .medium-post-box .pm-top-info {
+    padding-top: 0.5em;
+    border-top: 2px #ffcc00 solid;
+}
+
+.post-mediums .pipeline .post-item .medium-post-box .pm-top-info {
+    padding-top: 0.5em;
+    border-top: 2px #ff4d4d solid;
+}
+
+.post-mediums .psd .post-item .medium-post-box .pm-top-info {
+    padding-top: 0.5em;
+    border-top: 2px #70db70 solid;
+}
+
+.post-mediums .station .post-item .medium-post-box .pm-top-info {
+    padding-top: 0.5em;
+    border-top: 2px #9966ff solid;
+}
+
+.post-mediums .uncategorized .post-item .medium-post-box .pm-top-info {
+    padding-top: 0.5em;
+    border-top: 2px #6d6d70 solid;
+}
+
+/* ALEX - make content invisible on homepage for Pipeline posts */
+.post-mediums .pipeline .post-item .medium-post-box .post-item-paragraph p.ellipsis-readmore {
+    opacity: 0 !important;
+}
+/* TODO: fix this! Not finding the right element*/
+
+
+/* ALEX - change colour of tags when hovered or selected */
+
+.tags > a.faucet.selected,
+.tags > a.faucet:hover {
+    background-color: #4da6ff;
+    color: #fff;
+}
+
+.tags > a.ledger.selected,
+.tags > a.ledger:hover {
+    background-color: #ffcc00;
+    color: #fff;
+}
+
+.tags > a.pipeline.selected,
+.tags > a.pipeline:hover {
+    background-color: #ff4d4d;
+    color: #fff;
+}
+
+.tags > a.psd.selected,
+.tags > a.psd:hover {
+    background-color: #70db70;
+    color: #fff;
+}
+
+.tags > a.station.selected,
+.tags > a.station:hover {
+    background-color: #9966ff;
+    color: #fff;
+}
+
+
+/* ALEX - center images in left section of each post */
+
+.post-item-banner > img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+
+/* ALEX - header top right styling */
+
+.fa-bars {
+    color: black;
+}
+
+.fa-search {
+    color: black;
+}
+
+.fa-info {
+    color: black;
+}
+
+.info-button {
+    float: right;
+    font-size: 17px;
+    padding: 20px 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* ALEX - header top left styling */
+
+.home-icon {
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: headline;
+    color: black;
+}
+
+.home-icon:hover {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* ALEX - padding on top of main page */
+
+div.canvas {
+    padding-top: 0px;
+}
+
+div.head-text {
+    padding: 0px 0 30px;
+}
+
+.lead-text {
+    margin-bottom: 20px;
+}
+
+
+/* ALEX - Title Font */
+
+.head-text .main-title {
+    font-size: 100px !important;
+    font-family: headline !important;
+}
+
+
+/* ALEX - Individual Page Title Font */
+
+.head-text h1.head-text-highlight {
+    color: #3f3e3f;
+    font-weight: 600;
+    font-size: 50px;
+}
+.text-highlight h1 {
+    color: #3f3e3f !important;
+    font-weight: 100 !important;
+    font-size: 100px !important;
+    font-family: Heathergreen;
+}
+/* .text-highlight .lead-text {
+    font-size: 15px;
+    color: #909091;
+} */
+
+/* ALEX - hide fa icons in top right of each post on front page */
+.pm-top.info .post-item-social {
+    display: none !important;
+}
+/* TODO: fix this */

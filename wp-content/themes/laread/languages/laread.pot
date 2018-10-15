@@ -1,0 +1,1854 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: laread\n"
+"POT-Creation-Date: 2016-04-19 11:48+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Evmet <evrimbakir@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e;_n;gettext;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archives.php:24
+msgid "In case youre lost, just search..."
+msgstr ""
+
+#: archives.php:35
+msgid "LATEST"
+msgstr ""
+
+#: archives.php:38
+msgid "CATEGORY"
+msgstr ""
+
+#: archives.php:41
+msgid "AUTHOR"
+msgstr ""
+
+#: archives.php:44
+msgid "MONTH/YEAR"
+msgstr ""
+
+#: archives.php:141 author.php:71 author.php:110 comments.php:28
+#: core/template-tags.php:406 core/template-tags.php:988
+msgid "Comments"
+msgstr ""
+
+#: archives.php:148
+msgid "No posts."
+msgstr ""
+
+#: author.php:32
+msgid "Posts"
+msgstr ""
+
+#: author.php:51
+msgid "LATEST."
+msgstr ""
+
+#: author.php:54
+msgid "POPULAR."
+msgstr ""
+
+#: author.php:79 author.php:117
+msgid "No posts by this author."
+msgstr ""
+
+#: authors.php:75
+msgid "Become an author"
+msgstr ""
+
+#: authors.php:76
+msgid ""
+"Vivamus nec mauris pulvinar leo dignissim sollicitudin eleifend eget velit. "
+"Mauris fermentum fringilla lorem, in rutrum massa."
+msgstr ""
+
+#: comments.php:20
+msgid "Please be polite. We appreciate that."
+msgstr ""
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:60
+msgid "required"
+msgstr ""
+
+#: comments.php:70
+#, php-format
+msgid "Leave a Reply to %s or"
+msgstr ""
+
+#: comments.php:71
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:72
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:77
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:80
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:83
+msgid "Write Message"
+msgstr ""
+
+#: comments.php:98
+msgid "Comments are closed."
+msgstr ""
+
+#: core/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/fn.options.php:48
+msgid "General"
+msgstr ""
+
+#: core/fn.options.php:55
+msgid "Loading Box"
+msgstr ""
+
+#: core/fn.options.php:62
+msgid "if you want, loading"
+msgstr ""
+
+#: core/fn.options.php:69
+msgid "Inline Page Template"
+msgstr ""
+
+#: core/fn.options.php:72
+msgid "for archive, categories"
+msgstr ""
+
+#: core/fn.options.php:74 core/fn.options.php:555
+msgid "Large Image"
+msgstr ""
+
+#: core/fn.options.php:75 core/fn.options.php:556
+msgid "Medium With Sidebar"
+msgstr ""
+
+#: core/fn.options.php:76 core/fn.options.php:557
+msgid "Medium Without Sidebar"
+msgstr ""
+
+#: core/fn.options.php:77 core/fn.options.php:558
+msgid "Masonry"
+msgstr ""
+
+#: core/fn.options.php:85
+msgid "Single Page Template"
+msgstr ""
+
+#: core/fn.options.php:88
+msgid "for post detail "
+msgstr ""
+
+#: core/fn.options.php:90
+msgid "Without Sidebar"
+msgstr ""
+
+#: core/fn.options.php:91
+msgid "With Sidebar"
+msgstr ""
+
+#: core/fn.options.php:100
+msgid "Gallery Post Limit"
+msgstr ""
+
+#: core/fn.options.php:110 core/fn.options.php:289 core/fn.options.php:367
+msgid "Background Color"
+msgstr ""
+
+#: core/fn.options.php:119
+msgid "Primary Color"
+msgstr ""
+
+#: core/fn.options.php:123
+msgid "general text color"
+msgstr ""
+
+#: core/fn.options.php:129 core/fn.options.php:298
+msgid "Link Color"
+msgstr ""
+
+#: core/fn.options.php:133
+msgid "h1, h2, h3 (title color)"
+msgstr ""
+
+#: core/fn.options.php:139
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/fn.options.php:143
+msgid "h1, h2, h3 (title hover color)"
+msgstr ""
+
+#: core/fn.options.php:149
+msgid "Footer Script"
+msgstr ""
+
+#: core/fn.options.php:152
+msgid "for footer script."
+msgstr ""
+
+#: core/fn.options.php:158 core/fn.options.php:665
+msgid "Social Networks"
+msgstr ""
+
+#: core/fn.options.php:163 core/fn.options.php:1067
+msgid "Facebook"
+msgstr ""
+
+#: core/fn.options.php:170 core/fn.options.php:1064
+msgid "Twitter"
+msgstr ""
+
+#: core/fn.options.php:177 core/widgets/widget-instagram.php:19
+#: core/widgets/widget-instagram.php:100
+msgid "Instagram"
+msgstr ""
+
+#: core/fn.options.php:184
+msgid "Pinterest"
+msgstr ""
+
+#: core/fn.options.php:191
+msgid "Linkedin"
+msgstr ""
+
+#: core/fn.options.php:198
+msgid "Dribbble"
+msgstr ""
+
+#: core/fn.options.php:205
+msgid "Vimeo"
+msgstr ""
+
+#: core/fn.options.php:212
+msgid "Soundcloud"
+msgstr ""
+
+#: core/fn.options.php:219
+msgid "Github"
+msgstr ""
+
+#: core/fn.options.php:226
+msgid "Flickr"
+msgstr ""
+
+#: core/fn.options.php:233
+msgid "Youtube"
+msgstr ""
+
+#: core/fn.options.php:240
+msgid "500px"
+msgstr ""
+
+#: core/fn.options.php:247
+msgid "Slack"
+msgstr ""
+
+#: core/fn.options.php:254
+msgid "Vine"
+msgstr ""
+
+#: core/fn.options.php:261
+msgid "Spotify"
+msgstr ""
+
+#: core/fn.options.php:269
+msgid "Header"
+msgstr ""
+
+#: core/fn.options.php:273
+msgid "Logo"
+msgstr ""
+
+#: core/fn.options.php:276
+msgid "Upload your logo"
+msgstr ""
+
+#: core/fn.options.php:280
+msgid "Logo Retina"
+msgstr ""
+
+#: core/fn.options.php:283
+msgid "Upload your retina logo (@2x)"
+msgstr ""
+
+#: core/fn.options.php:302
+msgid "text color"
+msgstr ""
+
+#: core/fn.options.php:308
+msgid "Pushbar Types"
+msgstr ""
+
+#: core/fn.options.php:311
+msgid "Pushbar style type"
+msgstr ""
+
+#: core/fn.options.php:313 core/fn.options.php:1442
+msgid "Default"
+msgstr ""
+
+#: core/fn.options.php:314
+msgid "Full With"
+msgstr ""
+
+#: core/fn.options.php:321
+msgid "PushBar Categories"
+msgstr ""
+
+#: core/fn.options.php:328
+msgid "Pushbar post limit"
+msgstr ""
+
+#: core/fn.options.php:331
+msgid "Post limit"
+msgstr ""
+
+#: core/fn.options.php:337
+msgid "Footer"
+msgstr ""
+
+#: core/fn.options.php:342
+msgid "Footer Logo"
+msgstr ""
+
+#: core/fn.options.php:345
+msgid "Upload your footer logo"
+msgstr ""
+
+#: core/fn.options.php:350
+msgid "Footer Retina Logo"
+msgstr ""
+
+#: core/fn.options.php:353
+msgid "Upload your footer logo retina  (2x)"
+msgstr ""
+
+#: core/fn.options.php:359
+msgid "Tagline"
+msgstr ""
+
+#: core/fn.options.php:362
+msgid "Footer tagline"
+msgstr ""
+
+#: core/fn.options.php:378
+msgid "Quick Read"
+msgstr ""
+
+#: core/fn.options.php:382
+msgid "Light Logo"
+msgstr ""
+
+#: core/fn.options.php:385
+msgid "Upload your light logo"
+msgstr ""
+
+#: core/fn.options.php:389
+msgid "Dark Logo"
+msgstr ""
+
+#: core/fn.options.php:392
+msgid "Upload your dark logo"
+msgstr ""
+
+#: core/fn.options.php:399
+msgid "Post Format Options"
+msgstr ""
+
+#: core/fn.options.php:405
+msgid "Embed Code"
+msgstr ""
+
+#: core/fn.options.php:408
+msgid "You can add here if you use facebook, soundcloud, twitter embed code"
+msgstr ""
+
+#: core/fn.options.php:413
+msgid "Embed Video"
+msgstr ""
+
+#: core/fn.options.php:416
+msgid "You can add here if you use youtube, vimeo embed code"
+msgstr ""
+
+#: core/fn.options.php:421
+msgid "Hot Event"
+msgstr ""
+
+#: core/fn.options.php:424
+msgid "You can add here hot event (You should select status post format)"
+msgstr ""
+
+#: core/fn.options.php:429
+msgid "Code Format"
+msgstr ""
+
+#: core/fn.options.php:432
+msgid "You can add here code (You should select status post format)"
+msgstr ""
+
+#: core/fn.options.php:439 core/widgets/widget-quote.php:53
+msgid "Author Name"
+msgstr ""
+
+#: core/fn.options.php:442
+msgid "You can add here if you use quote"
+msgstr ""
+
+#: core/fn.options.php:447
+msgid "Post Link Title"
+msgstr ""
+
+#: core/fn.options.php:450 core/fn.options.php:458
+msgid "You can add here if you use link"
+msgstr ""
+
+#: core/fn.options.php:455
+msgid "Post Link"
+msgstr ""
+
+#: core/fn.options.php:463
+msgid "Chat Format Options"
+msgstr ""
+
+#: core/fn.options.php:469
+msgid "Chat Info"
+msgstr ""
+
+#: core/fn.options.php:472
+msgid "Chat info"
+msgstr ""
+
+#: core/fn.options.php:477
+msgid "Chat Content"
+msgstr ""
+
+#: core/fn.options.php:480
+msgid "First line: A Second line: B"
+msgstr ""
+
+#: core/fn.options.php:485
+msgid "Chat Bg Color"
+msgstr ""
+
+#: core/fn.options.php:490
+msgid "Pick a color"
+msgstr ""
+
+#: core/fn.options.php:495
+msgid "Event Format Options"
+msgstr ""
+
+#: core/fn.options.php:501 core/widgets/widget-search.php:49
+#: core/widgets/widget-tags.php:56
+msgid "Title"
+msgstr ""
+
+#: core/fn.options.php:504
+msgid "Event Title"
+msgstr ""
+
+#: core/fn.options.php:509
+msgid "Date"
+msgstr ""
+
+#: core/fn.options.php:512
+msgid "for example: 21 July"
+msgstr ""
+
+#: core/fn.options.php:517 core/fn.options.php:641 core/fn.options.php:717
+msgid "Adress"
+msgstr ""
+
+#: core/fn.options.php:520
+msgid "Event Adress"
+msgstr ""
+
+#: core/fn.options.php:525
+msgid "Link"
+msgstr ""
+
+#: core/fn.options.php:528
+msgid "Event Link"
+msgstr ""
+
+#: core/fn.options.php:534
+msgid "Event Content"
+msgstr ""
+
+#: core/fn.options.php:537
+msgid "for example: 08:30 - 09:30  & Start with design project"
+msgstr ""
+
+#: core/fn.options.php:544
+msgid "Banner Mode Page Options"
+msgstr ""
+
+#: core/fn.options.php:549
+msgid "Page Template"
+msgstr ""
+
+#: core/fn.options.php:552
+msgid "You can select template here if you use banner mode"
+msgstr ""
+
+#: core/fn.options.php:554
+msgid "Select Page Template"
+msgstr ""
+
+#: core/fn.options.php:565
+msgid "Banner Post Limit"
+msgstr ""
+
+#: core/fn.options.php:568
+msgid "How to display post?"
+msgstr ""
+
+#: core/fn.options.php:575
+msgid "Custom Logo For Header"
+msgstr ""
+
+#: core/fn.options.php:578
+msgid "Upload your image"
+msgstr ""
+
+#: core/fn.options.php:583
+msgid "Custom Logo Retina For Header"
+msgstr ""
+
+#: core/fn.options.php:586
+msgid "Upload your image @2x"
+msgstr ""
+
+#: core/fn.options.php:591
+msgid "Banner Mode Footer Pages"
+msgstr ""
+
+#: core/fn.options.php:594
+msgid "Select Pages for Banner Mode Footer Link"
+msgstr ""
+
+#: core/fn.options.php:599
+msgid "Display Options"
+msgstr ""
+
+#: core/fn.options.php:604
+msgid "How to display"
+msgstr ""
+
+#: core/fn.options.php:607
+msgid "You can select gallery type"
+msgstr ""
+
+#: core/fn.options.php:609
+msgid "Carousel v1"
+msgstr ""
+
+#: core/fn.options.php:610
+msgid "Carousel v2"
+msgstr ""
+
+#: core/fn.options.php:611
+msgid "Gallery Light"
+msgstr ""
+
+#: core/fn.options.php:612
+msgid "Gallery Dark"
+msgstr ""
+
+#: core/fn.options.php:619
+msgid "About Page Options"
+msgstr ""
+
+#: core/fn.options.php:625
+msgid "Description"
+msgstr ""
+
+#: core/fn.options.php:628
+msgid "Ex: Welcome to my blog <small>for about v1 page</small>"
+msgstr ""
+
+#: core/fn.options.php:633 core/fn.options.php:1070
+msgid "Jobs"
+msgstr ""
+
+#: core/fn.options.php:636
+msgid "Ex: Traveler / Art Director"
+msgstr ""
+
+#: core/fn.options.php:644
+msgid "Ex: Popayan, Colombia"
+msgstr ""
+
+#: core/fn.options.php:649
+msgid "Infobox"
+msgstr ""
+
+#: core/fn.options.php:652
+msgid "for Help http://laread.evmet.net/wp/documentation"
+msgstr ""
+
+#: core/fn.options.php:657
+msgid "About Social Text"
+msgstr ""
+
+#: core/fn.options.php:660
+msgid "about contact"
+msgstr ""
+
+#: core/fn.options.php:671
+msgid "Facebook Link"
+msgstr ""
+
+#: core/fn.options.php:674
+msgid "Facebook Profile Link"
+msgstr ""
+
+#: core/fn.options.php:679
+msgid "Twitter Link"
+msgstr ""
+
+#: core/fn.options.php:682
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: core/fn.options.php:687
+msgid "Google Plus"
+msgstr ""
+
+#: core/fn.options.php:690
+msgid "Google Plus Link"
+msgstr ""
+
+#: core/fn.options.php:695
+msgid "Behance Link"
+msgstr ""
+
+#: core/fn.options.php:698
+msgid "Behance Profile Link"
+msgstr ""
+
+#: core/fn.options.php:703
+msgid "Contact Mail"
+msgstr ""
+
+#: core/fn.options.php:706
+msgid "Your email"
+msgstr ""
+
+#: core/fn.options.php:711
+msgid "Contact Page Options"
+msgstr ""
+
+#: core/fn.options.php:720
+msgid "Ex: 216 King Street, Toronto, Canada"
+msgstr ""
+
+#: core/fn.options.php:725
+msgid "Contact Email"
+msgstr ""
+
+#: core/fn.options.php:728
+msgid "hello@mail.com"
+msgstr ""
+
+#: core/fn.options.php:733
+msgid "Google Maps lat,lng"
+msgstr ""
+
+#: core/fn.options.php:736
+msgid "Ex: 40.1960517,29.0602351"
+msgstr ""
+
+#: core/fn.options.php:741
+msgid "Marker Title"
+msgstr ""
+
+#: core/fn.options.php:744
+msgid "laread started at this point"
+msgstr ""
+
+#: core/fn.options.php:749
+msgid "Phone"
+msgstr ""
+
+#: core/fn.options.php:752
+msgid "Your phone"
+msgstr ""
+
+#: core/fn.options.php:987
+msgid "NEXT POST &#8594;"
+msgstr ""
+
+#: core/fn.options.php:991
+msgid "&#8592; PREV POST"
+msgstr ""
+
+#: core/fn.options.php:1073
+msgid "Locale"
+msgstr ""
+
+#: core/fn.options.php:1128
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: core/fn.options.php:1136
+msgid "reply"
+msgstr ""
+
+#: core/fn.options.php:1440
+msgid "laread Gallery Type"
+msgstr ""
+
+#: core/fn.options.php:1443
+msgid "Carousel"
+msgstr ""
+
+#: core/fn.options.php:1444
+msgid "None"
+msgstr ""
+
+#: core/fn.options.php:1451
+msgid "Gallery Template"
+msgstr ""
+
+#: core/fn.options.php:1453
+msgid "White"
+msgstr ""
+
+#: core/fn.options.php:1454
+msgid "Dark"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:399
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:400
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:828
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:935
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2612
+#: core/lib/titan-framework/class-option-edd-license.php:150
+msgid "Activate"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3370
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3370
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/lib/tgm-plugin/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/lib/tgm-plugin/fn_tgm_init.php:49
+msgid "Zilla Likes"
+msgstr ""
+
+#: core/lib/tgm-plugin/fn_tgm_init.php:60
+msgid "LaRead Shortcodes"
+msgstr ""
+
+#: core/lib/tgm-plugin/fn_tgm_init.php:68
+msgid "LaRead Post Types"
+msgstr ""
+
+#: core/lib/titan-framework/class-admin-panel.php:120
+msgid ""
+"<em>Options Page Created with <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+msgstr ""
+
+#: core/lib/titan-framework/class-admin-panel.php:330
+msgid "Settings saved."
+msgstr ""
+
+#: core/lib/titan-framework/class-admin-panel.php:332
+msgid "Settings reset to default."
+msgstr ""
+
+#: core/lib/titan-framework/class-meta-box.php:37
+#: core/lib/titan-framework/class-theme-customizer-section.php:33
+msgid "More Options"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-ajax-button.php:29
+#: core/lib/titan-framework/class-option-ajax-button.php:32
+msgid "Security check failed, please refresh the page and try again."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-ajax-button.php:86
+msgid "Something went wrong"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-ajax-button.php:91
+msgid "Click me"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-ajax-button.php:96
+msgid "Please wait..."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:132
+msgid "Your license is valid and active."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:136
+msgid "Your license is invalid."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:151
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:156
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:162
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:375
+msgid "Theme License"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:376
+msgid "Enter your theme license key."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:377
+msgid "License Key"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:378
+msgid "License Action"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:379
+msgid "Deactivate License"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:380
+msgid "Activate License"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:381
+#: core/lib/titan-framework/class-option-edd-license.php:393
+msgid "License status is unknown."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:382
+msgid "Renew?"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:383
+msgid "unlimited"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:384
+msgid "License key is active."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:385
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:386
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:387
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:388
+msgid "License key has expired."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:389
+msgid "License keys do not match."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:390
+msgid "License is inactive."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:391
+msgid "License key is disabled."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:392
+msgid "Site is inactive."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:394
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-edd-license.php:395
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: core/lib/titan-framework/class-option-enable.php:21
+#: core/lib/titan-framework/class-option-enable.php:96
+msgid "Enabled"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-enable.php:24
+#: core/lib/titan-framework/class-option-enable.php:99
+msgid "Disabled"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-gallery.php:148
+#: core/lib/titan-framework/class-option-upload.php:225
+msgid "Select Image"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-gallery.php:151
+#: core/lib/titan-framework/class-option-upload.php:228
+msgid "Use image"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-multicheck-pages.php:27
+#: core/lib/titan-framework/class-option-multicheck-pages.php:48
+#: core/lib/titan-framework/class-option-multicheck-posts.php:34
+#: core/lib/titan-framework/class-option-multicheck-posts.php:60
+#: core/lib/titan-framework/class-option-select-pages.php:38
+#: core/lib/titan-framework/class-option-select-posts.php:46
+#, php-format
+msgid "Untitled %s"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-save.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+
+#: core/lib/titan-framework/class-option-select-categories.php:37
+#: core/lib/titan-framework/class-option-select-categories.php:104
+#: core/lib/titan-framework/class-option-select-pages.php:30
+#: core/lib/titan-framework/class-option-select-posts.php:38
+#: core/lib/titan-framework/class-option-select-posts.php:112
+msgid "Select"
+msgstr ""
+
+#: core/lib/titan-framework/class-option.php:43
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: core/lib/titan-framework/class-titan-framework.php:111
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: core/lib/titan-framework/class-titan-framework.php:481
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+
+#: core/lib/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: core/lib/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: core/lib/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: core/lib/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework-checker.php:86
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework-checker.php:89
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework-checker.php:108
+msgid "Titan Framework needs to be activated."
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework-checker.php:111
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework.php:169
+msgid "Documentation"
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework.php:173
+msgid "GitHub Repo"
+msgstr ""
+
+#: core/lib/titan-framework/titan-framework.php:177
+msgid "Issue Tracker"
+msgstr ""
+
+#: core/post-meta/post-meta-fields.php:181
+msgid "Add Images"
+msgstr ""
+
+#: core/post-meta/post-meta-fields.php:301
+msgid "Gallery Options"
+msgstr ""
+
+#: core/post-meta/post-meta-fields.php:308
+msgid ""
+"Create gallery and upload images by clicking on upload button , For multiple "
+"images selection , hold \"CTRL (windows) / Command (mac) \" button on your "
+"keyboard when clicking ."
+msgstr ""
+
+#: core/post-meta/post-meta-fields.php:309
+msgid "Create Gallery"
+msgstr ""
+
+#: core/template-tags.php:118
+msgid "Be Social"
+msgstr ""
+
+#: core/template-tags.php:352
+msgid "all"
+msgstr ""
+
+#: core/template-tags.php:501
+msgid "Designed for Read."
+msgstr ""
+
+#: core/template-tags.php:649 core/template-tags.php:674
+#: core/template-tags.php:701
+msgid "&#8592; NEWER"
+msgstr ""
+
+#: core/template-tags.php:650 core/template-tags.php:675
+#: core/template-tags.php:702
+msgid "OLDER &#8594;"
+msgstr ""
+
+#: core/template-tags.php:1035
+msgid "prev post"
+msgstr ""
+
+#: core/template-tags.php:1035
+msgid "<span class=\"post-way\"><i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: core/template-tags.php:1043
+msgid "next post"
+msgstr ""
+
+#: core/template-tags.php:1043
+msgid "<span class=\"post-way\"> "
+msgstr ""
+
+#: core/template-tags.php:1080
+#, php-format
+msgid "by %s post author"
+msgstr ""
+
+#: core/template-tags.php:1098 core/template-tags.php:1104
+msgid ", "
+msgstr ""
+
+#: core/template-tags.php:1100
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: core/template-tags.php:1106
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: core/template-tags.php:1112
+msgid "Leave a comment"
+msgstr ""
+
+#: core/template-tags.php:1112
+msgid "1 Comment"
+msgstr ""
+
+#: core/template-tags.php:1112
+msgid "% Comments"
+msgstr ""
+
+#: core/template-tags.php:1116 post-formats/large-image/content-page.php:25
+#: post-formats/masonry/content-page.php:25
+#: post-formats/medium-with-sidebar/content-page.php:25
+#: post-formats/medium-without/content-page.php:25
+msgid "Edit"
+msgstr ""
+
+#: core/template-tags.php:1133
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: core/template-tags.php:1135
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: core/template-tags.php:1137
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: core/template-tags.php:1139
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: core/template-tags.php:1139
+msgid "yearly archives date format"
+msgstr ""
+
+#: core/template-tags.php:1141
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: core/template-tags.php:1141
+msgid "monthly archives date format"
+msgstr ""
+
+#: core/template-tags.php:1143
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: core/template-tags.php:1143
+msgid "daily archives date format"
+msgstr ""
+
+#: core/template-tags.php:1145
+msgid "Asides post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1147
+msgid "Galleries post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1149
+msgid "Images post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1151
+msgid "Videos post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1153
+msgid "Quotes post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1155
+msgid "Links post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1157
+msgid "Statuses post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1159
+msgid "Audio post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1161
+msgid "Chats post format archive title"
+msgstr ""
+
+#: core/template-tags.php:1163
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: core/template-tags.php:1167
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: core/template-tags.php:1169
+msgid "Archives"
+msgstr ""
+
+#: core/widgets/widget-archive.php:11 core/widgets/widget-archive.php:12
+msgid "laread Archive"
+msgstr ""
+
+#: core/widgets/widget-archive.php:20 core/widgets/widget-archive.php:48
+msgid "ARCHIVE"
+msgstr ""
+
+#: core/widgets/widget-archive.php:56 core/widgets/widget-categories.php:89
+#: core/widgets/widget-instagram.php:110 core/widgets/widget-social.php:66
+#: core/widgets/widget-top-posts.php:70
+msgid "Title "
+msgstr ""
+
+#: core/widgets/widget-categories.php:11 core/widgets/widget-categories.php:12
+msgid "laread Categories"
+msgstr ""
+
+#: core/widgets/widget-categories.php:19 core/widgets/widget-categories.php:79
+msgid "Categories"
+msgstr ""
+
+#: core/widgets/widget-categories.php:102
+msgid "Limit Categories "
+msgstr ""
+
+#: core/widgets/widget-categories.php:117
+msgid "Enable Posts Count"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:20
+msgid "laread Latest Flickr Photos"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:21
+msgid "laread Flickr"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:29 core/widgets/widget-flickr.php:75
+msgid "Flickr Widget"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:59
+msgid "view stream on flickr"
+msgstr ""
+
+#: core/widgets/widget-flickr.php:85
+msgid "Widget Title "
+msgstr ""
+
+#: core/widgets/widget-flickr.php:97
+msgid "Flickr ID "
+msgstr ""
+
+#: core/widgets/widget-flickr.php:111
+msgid "Limit Photos "
+msgstr ""
+
+#: core/widgets/widget-instagram.php:11 core/widgets/widget-instagram.php:12
+msgid "laread Instagram"
+msgstr ""
+
+#: core/widgets/widget-instagram.php:122
+msgid "User Name "
+msgstr ""
+
+#: core/widgets/widget-instagram.php:133
+msgid "User ID"
+msgstr ""
+
+#: core/widgets/widget-instagram.php:147
+msgid "Client ID"
+msgstr ""
+
+#: core/widgets/widget-instagram.php:163
+msgid "Limit Query"
+msgstr ""
+
+#: core/widgets/widget-quote.php:11
+msgid "Quote..."
+msgstr ""
+
+#: core/widgets/widget-quote.php:12
+msgid "laread Quote"
+msgstr ""
+
+#: core/widgets/widget-quote.php:21 core/widgets/widget-quote.php:22
+#: core/widgets/widget-search.php:11 core/widgets/widget-search.php:21
+#: core/widgets/widget-search.php:44 core/widgets/widget-tags.php:21
+#: core/widgets/widget-tags.php:51
+msgid "Search..."
+msgstr ""
+
+#: core/widgets/widget-quote.php:58
+msgid "Quote"
+msgstr ""
+
+#: core/widgets/widget-search.php:12
+msgid "laread Search"
+msgstr ""
+
+#: core/widgets/widget-social.php:11 core/widgets/widget-social.php:12
+msgid "laread Social Networks"
+msgstr ""
+
+#: core/widgets/widget-social.php:20 core/widgets/widget-social.php:58
+msgid "FOLLOW US"
+msgstr ""
+
+#: core/widgets/widget-tags.php:11
+msgid "Tags..."
+msgstr ""
+
+#: core/widgets/widget-tags.php:12
+msgid "laread Tags"
+msgstr ""
+
+#: core/widgets/widget-tags.php:60
+msgid "Limit "
+msgstr ""
+
+#: core/widgets/widget-text.php:11
+msgid "Text..."
+msgstr ""
+
+#: core/widgets/widget-text.php:12
+msgid "laread Text"
+msgstr ""
+
+#: core/widgets/widget-text.php:21 core/widgets/widget-text.php:22
+msgid "..."
+msgstr ""
+
+#: core/widgets/widget-text.php:52
+msgid "Text Title"
+msgstr ""
+
+#: core/widgets/widget-text.php:57
+msgid "Text"
+msgstr ""
+
+#: core/widgets/widget-top-posts.php:11 core/widgets/widget-top-posts.php:12
+msgid "laread Popular Posts"
+msgstr ""
+
+#: core/widgets/widget-top-posts.php:20 core/widgets/widget-top-posts.php:61
+msgid "Popular Posts"
+msgstr ""
+
+#: core/widgets/widget-top-posts.php:81
+msgid "Limit Posts Number "
+msgstr ""
+
+#: functions.php:123
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:211
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:213
+msgid "Sidebar Medium With Sidebar"
+msgstr ""
+
+#: header.php:44 page-banner1.php:43 page-banner2.php:44
+msgid "Toggle navigation"
+msgstr ""
+
+#: header.php:52 page-banner1.php:50 page-banner2.php:52
+#: post-formats/large-image/content-none.php:24
+msgid "Search"
+msgstr ""
+
+#: page-about.php:54 page-about2.php:75 page-contact.php:132
+#: page-contact2.php:126
+msgid "Get In Touch"
+msgstr ""
+
+#: page-contact.php:35 page-contact.php:54 page-contact2.php:31
+#: page-contact2.php:49
+msgid "Oh snap!"
+msgstr ""
+
+#: page-contact.php:35 page-contact2.php:31
+msgid "Please supply all information"
+msgstr ""
+
+#: page-contact.php:54 page-contact2.php:49
+msgid "Message was not sent. Try Again"
+msgstr ""
+
+#: page-contact.php:60 page-contact2.php:55
+msgid "Thanks!"
+msgstr ""
+
+#: page-contact.php:60 page-contact2.php:55
+msgid "Your message has been sent."
+msgstr ""
+
+#: page-contact.php:114 page-contact2.php:112
+msgid "Name"
+msgstr ""
+
+#: page-contact.php:115 page-contact2.php:113
+msgid "Surname"
+msgstr ""
+
+#: page-contact.php:116 page-contact2.php:114
+msgid "Subject"
+msgstr ""
+
+#: page-contact.php:117 page-contact2.php:115
+msgid "Email"
+msgstr ""
+
+#: page-contact.php:118 page-contact2.php:116 page-contact2.php:117
+msgid "Message"
+msgstr ""
+
+#: page-contact.php:122
+msgid "SEND"
+msgstr ""
+
+#: page-contact.php:133 page-contact2.php:127
+msgid ""
+"If you dig the site, subscribe by RSS or email. Comments and emails are "
+"always appreciated. You can also contact me through one of my social media."
+msgstr ""
+
+#: page-contact2.php:118
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: post-formats/large-image/content-aside.php:32
+#: post-formats/large-image/content-status.php:31
+#: post-formats/medium-with-sidebar/content-aside.php:29
+#: post-formats/medium-with-sidebar/content-status.php:28
+#: post-formats/medium-without/content-status.php:38
+msgid "read more"
+msgstr ""
+
+#: post-formats/large-image/content-event.php:44
+#: post-formats/large-image/content-single.php:87
+#: post-formats/medium-with-sidebar/content-event.php:46
+#: post-formats/medium-with-sidebar/content-single.php:85
+msgid "Event"
+msgstr ""
+
+#: post-formats/large-image/content-event.php:58
+#: post-formats/large-image/content-single.php:101
+#: post-formats/medium-with-sidebar/content-event.php:60
+#: post-formats/medium-with-sidebar/content-single.php:99
+msgid "GET DIRECTIONS"
+msgstr ""
+
+#: post-formats/large-image/content-none.php:17
+#: post-formats/masonry/content-none.php:13
+#: post-formats/medium-with-sidebar/content-none.php:13
+#: post-formats/medium-without/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: post-formats/large-image/content-none.php:19
+#: post-formats/masonry/content-none.php:23
+#: post-formats/medium-with-sidebar/content-none.php:23
+#: post-formats/medium-without/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: post-formats/large-image/content-none.php:28
+msgid "HOME PAGE"
+msgstr ""
+
+#: post-formats/large-image/content-none.php:29
+msgid "PREVIOUS PAGE"
+msgstr ""
+
+#: post-formats/large-image/content-page.php:18
+#: post-formats/masonry/content-page.php:18
+#: post-formats/masonry/content-single.php:20
+#: post-formats/medium-with-sidebar/content-page.php:18
+#: post-formats/medium-without/content-page.php:18
+#: post-formats/medium-without/content-single.php:20
+msgid "Pages:"
+msgstr ""
+
+#: post-formats/masonry/content-none.php:19
+#: post-formats/medium-with-sidebar/content-none.php:19
+#: post-formats/medium-without/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: post-formats/masonry/content-none.php:28
+#: post-formats/medium-with-sidebar/content-none.php:28
+#: post-formats/medium-without/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:21 search.php:59 search.php:113 search.php:165
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
